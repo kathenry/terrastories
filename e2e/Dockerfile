@@ -19,3 +19,4 @@ COPY . .
 # Permission update required for MacOS
 # Update all scripts in the folder
 RUN chmod a+x scripts/*
+
