@@ -19,5 +19,3 @@ class PlacePhotoDecorator
     Rails.root.join(::Place::MEDIA_PATH,  @filename)
   end
 end
-
-
